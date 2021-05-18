@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashanali1
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...new delhi
+- 🌱 I’m currently living in ...new delhi
 - 💞️ I’m looking to collaborate on ...web dev projects
 - 📫 How to reach me ...+918858511345
 
